@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom
+.DS_Store
+music-segmentation.html
+music-segmentation_files/*
+.ipynb_checkpoints/*
