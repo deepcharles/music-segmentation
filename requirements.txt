@@ -1,0 +1,6 @@
+ipython
+librosa
+matplotlib
+numpy
+ruptures
+scikit-learn
